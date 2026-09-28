@@ -250,4 +250,4 @@ This repository serves as the official landing page for OCCT. The software is di
 **Get the most recent version of OCCT today!**
 
 ---
-**Last updated:** 2026-09-27 23:39:33 UTC
+**Last updated:** 2026-09-28 03:45:37 UTC
